@@ -6,7 +6,7 @@ int main() {
    
     int a = 5; 
     //int b = 25;
-
+	gotya fitt tight
     //double result = (double) a /  (double) b * 100 ;  
     //std::cout << "Result " << result << std::endl;
     
